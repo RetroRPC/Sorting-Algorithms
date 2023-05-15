@@ -1,2 +1,2 @@
-# JavaAlgorithms
-[WIP] Learning Algorithms, very fun...
+# Sorting Algorithms
+[WIP] Learning Sorting Algorithms
